@@ -8,3 +8,8 @@ h1{
     font-family: 'Courier New', Courier, monospace;
     color: crimson;
 }
+img{
+    height: 200px;
+    width: 300px;
+    text-align: center;
+}
