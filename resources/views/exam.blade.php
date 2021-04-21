@@ -8,7 +8,12 @@
     <link rel="stylesheet" href="{{url('style.css')}}">
 </head>
 <body>
+<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Beatae corrupti quas adipisci 
+ipsa quaerat fuga
+ explicabo voluptate! Alias facilis corrupti autem 
+ut, sed voluptatum magni similique. Fuga saepe error necessitatibus?</p>
 <img src="{{url('images/konna.png')}}" alt="">
+
 <h1>my sample page</h1>
 </body>
 </html>
